@@ -1,2 +1,2 @@
 # Leetcode-Solution
-Collection of LeetCode questions solution.
+Collection of LeetCode questions to ace the coding interview.
