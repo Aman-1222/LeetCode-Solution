@@ -19,6 +19,6 @@ public boolean isPalindrome(int x) {
     	rev = rev*10 + x%10;
     	x = x/10;
     }
-    return (x==rev || x==rev/10);
+    return (x==rev || x==rev/10);  // done for even and odd digits
 }
 }
