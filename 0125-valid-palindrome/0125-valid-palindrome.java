@@ -17,10 +17,12 @@ class Solution {
         int start=0;
         int last=s.length()-1;
         while(start<=last){
-            if(!Character.isLetterOrDigit(s.charAt(start))) start++;
-            else if(!Character.isLetterOrDigit(s.charAt(last))) last--;
+            int firstChar=s.charAt(start);
+            int secChar=s.charAt(last);
+            if(!Character.isLetterOrDigit(firstChar)) start++;
+            else if(!Character.isLetterOrDigit(secChar)) last--;
             else {
-                if(Character.toLowerCase(s.charAt(start))==Character.toLowerCase(s.charAt(last))) {
+                if(Character.toLowerCase(firstChar)==Character.toLowerCase(secChar)) {
                     start++;
                     last--;
                 }
