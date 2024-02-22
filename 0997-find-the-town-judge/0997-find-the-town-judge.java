@@ -1,0 +1,23 @@
+class Solution {
+    public int findJudge(int n, int[][] trust) {
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int len=0;
+        int sum=(n*(n+1))/2;
+        for(int i=0;i<trust.length;i++){
+            if(!map.containsKey(trust[i][0])){
+                len++;
+                map.put(trust[i][0],1);
+                sum-=trust[i][0];
+            }
+        }
+        if(len==n-1){
+            int count=0;
+            for(int i=0;i<trust.length;i++){
+                if(trust[i][1]==sum) count++;
+            }
+            if(count==len) return sum;
+            return -1;
+        }
+               return -1;
+    }
+}
