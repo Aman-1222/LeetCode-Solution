@@ -1,16 +1,11 @@
 class Solution {
     public int minDifference(int[] nums) {
-        int len=nums.length;
-        int diff=Integer.MAX_VALUE;
-        if(len<=4) return 0;
+        int n = nums.length, res = Integer.MAX_VALUE;
+        if (n < 5) return 0;
         Arrays.sort(nums);
-        for(int i=0;i<=len/2;i++){
-            if(i!=0 && nums[i]==nums[i-1]) continue;
-            int h=((i%len)+len-4)%len;
-            int d=nums[h]-nums[i];
-            if(d>=0)
-                diff=Math.min(d,diff);
+        for (int i = 0; i < 4; ++i) {
+            res = Math.min(res, nums[n - 4 + i] - nums[i]);
         }
-        return diff;
+        return res;
     }
 }
