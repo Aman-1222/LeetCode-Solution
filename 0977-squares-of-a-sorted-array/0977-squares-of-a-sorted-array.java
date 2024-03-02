@@ -10,13 +10,12 @@ class Solution {
             if(tempL>=tempR){
                 ans[index]=tempL;
                 left++;
-                index--;
             }
             else{
                 ans[index]=tempR;
-                right--;
-                index--;            
+                right--;          
         }
+            index--;
         }
             return ans;
     }
