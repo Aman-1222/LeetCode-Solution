@@ -6,12 +6,12 @@ class Solution {
         }
         int cnt=0;
         int max=0;
-        for(Map.Entry<Integer,Integer> mpp:map.entrySet()){
-            if(mpp.getValue()>max){
-                cnt=mpp.getValue();
-                max=mpp.getValue();
+        for(int mpp:map.values()){
+            if(mpp>max){
+                cnt=mpp;
+                max=mpp;
         }
-            else if(mpp.getValue()==max) cnt+=mpp.getValue();
+            else if(mpp==max) cnt+=mpp;
         }
         return cnt;
     }
