@@ -1,8 +1,8 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int cnt= 1;
-        int majEle = nums[0];
-        for(int i=1;i<nums.length;i++){
+        int cnt= 0;
+        int majEle = 0;
+        for(int i=0;i<nums.length;i++){
             if(cnt==0){
                 majEle=nums[i];
                 cnt++;
