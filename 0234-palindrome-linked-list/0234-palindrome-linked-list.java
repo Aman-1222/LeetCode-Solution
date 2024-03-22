@@ -25,7 +25,7 @@ class Solution {
             first=first.next;
             second=second.next;
         }
-        slow.next=reverse(newHead);
+        reverse(newHead);
         return true;
     }
     
