@@ -17,15 +17,15 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode temp1=reverse(slow.next);
-        ListNode temp2=temp1;
-        ListNode temp3=head;
-        while(temp2!=null){
-            if(temp2.val!=temp3.val) return false;
-            temp2=temp2.next;
-            temp3=temp3.next;
+        ListNode newHead=reverse(slow.next);
+        ListNode first=head;
+        ListNode second=newHead;
+        while(second!=null){
+            if(second.val!=first.val) return false;
+            first=first.next;
+            second=second.next;
         }
-        slow.next=reverse(temp1);
+        slow.next=reverse(newHead);
         return true;
     }
     
