@@ -3,8 +3,7 @@ class Solution {
         int ans=0;
         for(int i=s.length()-1;i>=0;i--){
             if(s.charAt(i)!=' ') ans++;
-            else if(s.charAt(i)==' ' && ans==0) continue;
-            else break;
+            else if(ans>0) return ans; 
         }
         return ans;
     }
