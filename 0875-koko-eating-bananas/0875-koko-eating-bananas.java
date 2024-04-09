@@ -9,9 +9,9 @@ class Solution {
         return low;
     }
     public boolean possible(int arr[],int bananas,int hour){
-        double cnt=0;
+        int cnt=0;
         for(int i=0;i<arr.length;i++)
-            cnt=cnt+Math.ceil((double)(arr[i])/(double)(bananas));
+            cnt+=Math.ceil((double)(arr[i])/(double)(bananas));
         if(cnt<=hour) return true;
         else return false;
     }
