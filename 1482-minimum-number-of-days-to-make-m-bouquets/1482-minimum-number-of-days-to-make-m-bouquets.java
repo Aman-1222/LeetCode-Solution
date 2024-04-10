@@ -23,7 +23,8 @@ class Solution {
             }
         }
         bouq+=cnt/k;
-        if(bouq>=m) return true;
-        else return false;
+        // if(bouq>=m) return true;
+        // else return false;
+        return (bouq>=m);
     }
 }
