@@ -2,13 +2,13 @@ class Solution {
     public boolean isValid(String s) {
         char[] arr=s.toCharArray();
         Stack<Character> st=new Stack<>();
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]=='(' || arr[i]=='[' || arr[i]=='{')
-                st.push(arr[i]);
+        for(char ch:arr){
+            if(ch=='(' || ch=='[' || ch=='{')
+                st.push(ch);
             else if(st.empty()) return false;
             else{
-                char ch=st.pop();
-                if((ch=='(' && arr[i]!=')') || (ch=='[' && arr[i]!=']') || (ch=='{' &&                          arr[i]!='}'))
+                char c=st.pop();
+                if((c=='(' && ch!=')') || (c=='[' && ch!=']') || (c=='{' && ch!='}'))
                     return false;
             }
         }
