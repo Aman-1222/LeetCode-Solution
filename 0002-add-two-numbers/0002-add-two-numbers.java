@@ -13,7 +13,7 @@ class Solution {
         ListNode LL=new ListNode(-1);
         ListNode ans=LL;
         int carry=0;
-        while(l1!=null || l2!=null){
+        while(l1!=null || l2!=null || carry==1){
             int sum=0;
             if(l1!=null){
                 sum+=l1.val;
@@ -28,8 +28,6 @@ class Solution {
             carry=sum/10;
             LL=LL.next;
         }  
-        if(carry>0) 
-            LL.next=new ListNode(carry);
         return ans.next;
     }
 }
