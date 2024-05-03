@@ -32,14 +32,12 @@ class Solution {
         while(i<=map1.size()){
             int m=map1.get(i);
             if(m>0) return 1;
-            else if(m<0) return -1;
             if(i==map1.size()) return 0;
             i++;
         }
            while(i<=map2.size()){
             int m=map2.get(i);
             if(m>0) return -1;
-            else if(m<0) return 1;
             if(i==map2.size()) return 0;
             i++;
         }
