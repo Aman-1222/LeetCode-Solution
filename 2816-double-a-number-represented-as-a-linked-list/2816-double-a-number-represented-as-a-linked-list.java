@@ -27,8 +27,7 @@ class Solution {
         return rev(ans.next);
     }
     public static ListNode rev(ListNode head){
-        if(head==null) return null;
-        if(head.next==null) return head;
+        if(head==null || head.next==null) return head;
         ListNode temp=head;
         ListNode newHead=rev(head.next);
         temp.next.next=temp;
