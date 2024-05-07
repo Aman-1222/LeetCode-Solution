@@ -10,22 +10,20 @@
  */
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        ListNode newnewHead=rev(head);
-        ListNode newHead=newnewHead;
+        ListNode newHead=rev(head);
         ListNode temp=new ListNode(-1);
         ListNode ans=temp;
         int carry=0;
         while(newHead!=null){
             carry=newHead.val*2+carry;
-            newHead.val=carry%10;
-            carry/=10;
-            temp.next=newHead;
+            temp.next=new ListNode(carry%10);
             temp=temp.next;
+            carry/=10;
             newHead=newHead.next;
         }
-        if(carry>0)
+        if(carry>0) 
             temp.next=new ListNode(carry);
-        
+        rev(head);
         return rev(ans.next);
     }
     public static ListNode rev(ListNode head){
