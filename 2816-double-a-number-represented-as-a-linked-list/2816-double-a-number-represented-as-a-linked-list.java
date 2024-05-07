@@ -24,7 +24,7 @@ class Solution {
         }
         if(carry>0)
             temp.next=new ListNode(carry);
-        rev(newHead);
+        
         return rev(ans.next);
     }
     public static ListNode rev(ListNode head){
