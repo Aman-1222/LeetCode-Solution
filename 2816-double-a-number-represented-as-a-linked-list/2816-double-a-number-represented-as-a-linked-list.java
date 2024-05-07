@@ -16,14 +16,15 @@ class Solution {
         int carry=0;
         while(newHead!=null){
             carry=newHead.val*2+carry;
-            temp.next=new ListNode(carry%10);
-            temp=temp.next;
+            newHead.val=carry%10;
             carry/=10;
+            temp.next=newHead;
+            temp=temp.next;
             newHead=newHead.next;
         }
-        if(carry>0) 
-            temp.next=new ListNode(carry);
-        rev(head);
+        if(carry>0) { System.out.print(carry);
+            temp.next=new ListNode(carry);}
+        
         return rev(ans.next);
     }
     public static ListNode rev(ListNode head){
