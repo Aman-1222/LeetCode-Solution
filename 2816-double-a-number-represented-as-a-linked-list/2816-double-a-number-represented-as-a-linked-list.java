@@ -10,7 +10,8 @@
  */
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        ListNode newHead=rev(head);
+        ListNode newnewHead=rev(head);
+        ListNode newHead=newnewHead;
         ListNode temp=new ListNode(-1);
         ListNode ans=temp;
         int carry=0;
