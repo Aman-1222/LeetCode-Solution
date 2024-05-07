@@ -28,10 +28,9 @@ class Solution {
     }
     public static ListNode rev(ListNode head){
         if(head==null || head.next==null) return head;
-        ListNode temp=head;
         ListNode newHead=rev(head.next);
-        temp.next.next=temp;
-        temp.next=null;
+        head.next.next=head;
+        head.next=null;
         return newHead;
     }
 }
