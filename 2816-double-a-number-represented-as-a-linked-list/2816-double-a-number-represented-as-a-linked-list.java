@@ -10,8 +10,7 @@
  */
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        ListNode newnewHead=rev(head);
-        ListNode newHead=newnewHead;
+        ListNode newHead=rev(head);
         ListNode temp=new ListNode(-1);
         ListNode ans=temp;
         int carry=0;
@@ -24,7 +23,7 @@ class Solution {
         }
         if(carry>0) 
             temp.next=new ListNode(carry);
-        rev(newnewHead);
+        rev(head);
         return rev(ans.next);
     }
     public static ListNode rev(ListNode head){
