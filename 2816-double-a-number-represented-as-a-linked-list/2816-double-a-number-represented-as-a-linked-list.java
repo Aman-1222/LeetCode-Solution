@@ -22,8 +22,8 @@ class Solution {
             temp=temp.next;
             newHead=newHead.next;
         }
-        if(carry>0) { System.out.print(carry);
-            temp.next=new ListNode(carry);}
+        if(carry>0)
+            temp.next=new ListNode(carry);
         rev(newHead);
         return rev(ans.next);
     }
