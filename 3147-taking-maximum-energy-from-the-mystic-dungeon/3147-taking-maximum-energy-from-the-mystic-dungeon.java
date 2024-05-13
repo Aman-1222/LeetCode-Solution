@@ -19,3 +19,21 @@ class Solution {
         return ans;
     }
 }
+
+// class Solution {
+// public:
+//     int maximumEnergy(vector<int>& energy, int k) {
+//         unordered_map<int,int>m;
+//         for(int i=0;i<energy.size();i++)
+//         {
+//             m[i%k]+=energy[i];
+//         }
+//         int maxi=INT_MIN;
+//         for(int i=0;i<energy.size();i++)
+//         {
+//             maxi=max(maxi,m[i%k]);
+//             m[i%k]-=energy[i];
+//         }
+//         return maxi;
+//     }
+// };
