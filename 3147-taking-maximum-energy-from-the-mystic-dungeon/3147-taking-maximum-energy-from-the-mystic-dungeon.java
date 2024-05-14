@@ -3,18 +3,11 @@ class Solution {
         int len=energy.length;
         int ans=Integer.MIN_VALUE;
         for(int i=len-1;i>=len-k;i--){
-            int pos=0,neg=0;
-            int sum=energy[i];
-            for(int j=i-k;j>=0;j-=k){
-                if(energy[j]<0) neg+=energy[j];
-                else pos+=energy[j];
-                if(pos>-neg) {
-                    sum+=pos+neg;
-                    pos=0;
-                    neg=0;
-                }
+            int sum=0;
+            for(int j=i;j>=0;j-=k){
+                sum+=energy[j];
+                ans=Math.max(ans,sum);       
             }
-            ans=Math.max(ans,sum);
         }
         return ans;
     }
