@@ -1,20 +1,22 @@
 class Solution {
     public String compressedString(String word) {
         word=word+".";
+        StringBuilder ans = new StringBuilder();
         String comp="";
         int cnt=1;
         for(int i=0;i<word.length()-1;i++){
+            char ch=word.charAt(i);
             if(cnt==9){
-                comp=comp+cnt+word.charAt(i);
+                ans.append(cnt).append(ch);
                     cnt=1;
                 }
-            else if(word.charAt(i+1)==word.charAt(i))
+            else if(word.charAt(i+1)==ch)
                 cnt++;
             else{
-                comp=comp+cnt+word.charAt(i);
+                ans.append(cnt).append(ch);
                 cnt=1;
             }
         }
-        return comp;
+        return ans.toString();
     }
 }
