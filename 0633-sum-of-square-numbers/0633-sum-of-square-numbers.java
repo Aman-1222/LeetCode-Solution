@@ -1,6 +1,5 @@
 class Solution {
-    public boolean judgeSquareSum(int c) {
-        if(c==0) return true;
+    public boolean judgeSquareSum(int c){
         for(long i=0;i*i<=c;i++){
             long val=c-(i*i);
             if((long)Math.sqrt(val)*Math.sqrt(val)==val) return true;
