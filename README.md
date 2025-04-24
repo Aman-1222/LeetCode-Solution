@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
