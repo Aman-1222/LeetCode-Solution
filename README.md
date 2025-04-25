@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
