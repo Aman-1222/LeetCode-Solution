@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Two Pointers
