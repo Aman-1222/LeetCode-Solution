@@ -11,7 +11,7 @@ class Solution {
             if(nums[mid]==target){
                 high=mid-1;
                 flag=true;
-                
+                continue;
             } 
             if(nums[mid]<target) low=mid+1;
             else high=mid-1;
