@@ -1,7 +1,7 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
      int[] result = {-1, -1};
-        if (nums == null || nums.length == 0) return result;
+        if (nums.length == 0) return result;
 
         // Find first occurrence
         int low = 0, high = nums.length - 1;
