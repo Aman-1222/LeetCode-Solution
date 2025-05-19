@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0485-max-consecutive-ones](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
 | ------- |
