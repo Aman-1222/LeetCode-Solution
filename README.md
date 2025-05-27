@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0283-move-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Binary Search
