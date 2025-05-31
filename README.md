@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -137,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
