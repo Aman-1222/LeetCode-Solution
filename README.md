@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
