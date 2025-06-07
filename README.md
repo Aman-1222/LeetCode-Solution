@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0075-sort-colors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Stack
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Greedy
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -142,8 +146,13 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
