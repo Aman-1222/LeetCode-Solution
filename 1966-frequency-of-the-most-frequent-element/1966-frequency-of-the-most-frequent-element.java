@@ -3,7 +3,6 @@ class Solution {
         Arrays.sort(nums);
         int left=0;
         long curr=0;
-        int ans=0;
         for(int right=0;right<nums.length;right++){
             long target=nums[right];
             curr+=target;
@@ -11,9 +10,8 @@ class Solution {
                 curr-=nums[left];
                 left++;
             }
-            ans=Math.max(ans,right-left+1);
         }
-        return ans;
+        return nums.length-left;
         
         
         
