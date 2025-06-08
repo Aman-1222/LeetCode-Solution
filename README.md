@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
