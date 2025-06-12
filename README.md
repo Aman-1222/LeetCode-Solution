@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
