@@ -4,7 +4,7 @@ class Solution {
         ArrayList<Integer> ans=new ArrayList<>();
         while(top<=bottom && left<=right){
             for(int i=left;i<=right;i++){
-                ans.add(matrix[left][i]);
+                ans.add(matrix[top][i]);
             }
             top++;
             for(int i=top;i<=bottom;i++){
