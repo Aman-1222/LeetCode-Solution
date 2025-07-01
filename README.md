@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
 |  |
 | ------- |
