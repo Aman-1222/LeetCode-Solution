@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
