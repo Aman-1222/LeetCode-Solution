@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0009-palindrome-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
