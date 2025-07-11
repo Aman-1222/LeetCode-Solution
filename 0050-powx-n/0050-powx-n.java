@@ -6,14 +6,10 @@ class Solution {
         if(n<0)
             n=-n;
         while(n>0){
-            if(n%2==0){
-                x=x*x;
-                n=n/2;
-            }
-            else{
+            if(n%2!=0)
                 ans*=x;
-                n-=1;
-            }
+            x=x*x;
+            n=n/2;
         }
         if(num<0) return 1/ans;
         else return ans;
