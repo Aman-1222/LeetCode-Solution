@@ -3,10 +3,8 @@ class Solution {
         double ans=1;
         long n=num;
         boolean flag=false;
-        if(n<0){
+        if(n<0)
             n=-n;
-            flag=true;
-        } 
         while(n>0){
             if(n%2==0){
                 x=x*x;
@@ -17,7 +15,7 @@ class Solution {
                 n-=1;
             }
         }
-        if(flag) return 1/ans;
+        if(num<0) return 1/ans;
         else return ans;
     }
 }
