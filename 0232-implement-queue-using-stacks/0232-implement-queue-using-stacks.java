@@ -1,11 +1,11 @@
 class MyQueue {
 
-    Stack<Integer> input;
-    Stack<Integer> output;
+    private Stack<Integer> input=new Stack<>();
+    private Stack<Integer> output=new Stack<>();
 
     public MyQueue() {
-        input=new Stack<>();
-        output=new Stack<>();
+        // input=new Stack<>();
+        // output=new Stack<>();
     }
     
     public void push(int x) {
