@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
