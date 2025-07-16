@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0410-split-array-largest-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0217-contains-duplicate](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
 |  |
@@ -256,5 +259,6 @@ Collection of LeetCode questions to ace the coding interview.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
