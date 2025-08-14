@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0013-roman-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
