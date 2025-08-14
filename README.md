@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
