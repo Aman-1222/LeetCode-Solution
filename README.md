@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
