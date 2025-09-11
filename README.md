@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
