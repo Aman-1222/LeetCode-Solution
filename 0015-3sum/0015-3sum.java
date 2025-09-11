@@ -11,7 +11,7 @@ class Solution {
                 if(sum>0) k--;
                 else if(sum<0) j++;
                 else{
-                    ans.add(Arrays.asList(nums[i],nums[j],nums[k]));
+                    ans.add(List.of(nums[i],nums[j],nums[k]));
                     j++;
                     k--;
                     while(j<k && nums[j]==nums[j-1]) j++;
