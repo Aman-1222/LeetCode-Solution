@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0020-valid-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0088-merge-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0283-move-zeroes) |
