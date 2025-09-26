@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0048-rotate-image](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0002-add-two-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Array
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
