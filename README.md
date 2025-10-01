@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
