@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1642-water-bottles](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
 | ------- |
