@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0031-next-permutation) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0031-next-permutation) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
