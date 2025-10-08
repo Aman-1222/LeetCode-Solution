@@ -14,7 +14,6 @@ class Solution {
         int ans[] = new int[spells.length];
         int len = potions.length;
         Arrays.sort(potions);
-        long val=0;
         for(int i=0;i<spells.length;i++){
             ans[i]=len-binarySearch(potions,Math.ceil((success*1.0)/spells[i]));
         }
