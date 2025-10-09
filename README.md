@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
