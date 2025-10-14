@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
