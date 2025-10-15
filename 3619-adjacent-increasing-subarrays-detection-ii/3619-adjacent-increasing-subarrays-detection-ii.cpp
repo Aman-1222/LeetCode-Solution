@@ -12,20 +12,11 @@ public:
             }
             else
             {
-                if(prev==0)
-                {
-                    maxi=max(maxi,cur/2);
-                    prev=cur;
-                    cur=1;
-                }
-                else
-                {
-                    int val=min(prev,cur);
-                    maxi=max(maxi,val);
-                    maxi=max(maxi,cur/2);
-                    prev=cur;
-                    cur=1;
-                }
+                int val=min(prev,cur);
+                maxi=max(maxi,val);
+                maxi=max(maxi,cur/2);
+                prev=cur;
+                cur=1;
             }
         }
         int val=min(prev,cur);
