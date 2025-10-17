@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [4003-longest-fibonacci-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4003-longest-fibonacci-subarray) |
 ## Binary Search
 |  |
 | ------- |
