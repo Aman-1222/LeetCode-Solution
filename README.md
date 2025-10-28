@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3396-valid-word](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0073-set-matrix-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
 | ------- |
