@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2174-next-greater-numerically-balanced-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
