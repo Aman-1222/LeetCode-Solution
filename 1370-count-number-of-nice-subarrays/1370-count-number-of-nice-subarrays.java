@@ -1,9 +1,9 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return helperFn(nums,k)-helperFn(nums,k-1);
+        return countAtMost(nums,k)-countAtMost(nums,k-1);
     }
 
-    public int helperFn(int nums[],int k){
+    public int countAtMost(int nums[],int k){
         if(k<0) return 0;
         int l=0, r=0;
         int cnt=0, odd=0;
