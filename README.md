@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1642-water-bottles) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
