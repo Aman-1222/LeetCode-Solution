@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0890-lemonade-change](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
