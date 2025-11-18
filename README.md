@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
