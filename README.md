@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
