@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Prefix Sum
 |  |
 | ------- |
