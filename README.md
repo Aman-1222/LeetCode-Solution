@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4003-longest-fibonacci-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4003-longest-fibonacci-subarray) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
