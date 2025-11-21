@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4003-longest-fibonacci-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4003-longest-fibonacci-subarray) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
