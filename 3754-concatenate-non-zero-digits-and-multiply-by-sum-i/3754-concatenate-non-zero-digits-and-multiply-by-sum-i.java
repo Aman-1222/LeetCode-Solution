@@ -1,5 +1,7 @@
 class Solution {
     public long sumAndMultiply(int n) {
+
+        // Direct by digit extraction without string
         String s="";
         int sum=0;
         String str=""+n;
