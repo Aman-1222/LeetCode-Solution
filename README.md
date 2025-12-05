@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
