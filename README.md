@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Stack
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
