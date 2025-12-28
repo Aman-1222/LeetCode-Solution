@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1646-kth-missing-positive-number) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0073-set-matrix-zeroes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
