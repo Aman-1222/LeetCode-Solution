@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0792-binary-search](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0907-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1046-max-consecutive-ones-iii) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1034-subarrays-with-k-different-integers) |
