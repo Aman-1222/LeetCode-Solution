@@ -8,10 +8,14 @@ class Solution {
             if(i>=0){
                 end=i;
                 while(i>=0 && s.charAt(i)!=' ') i--;
-                ans=ans+s.substring(i+1,end+1)+" ";
+                String word=s.substring(i+1,end+1);
+                if(ans.length()>0) ans=ans+" "+word;
+                else ans=ans+word;
+                // ans=ans+s.substring(i+1,end+1)+" ";
             }
         }
-        return ans.substring(0,ans.length()-1);
+        return ans;
+        // return ans.substring(0,ans.length()-1);
 
 
 
