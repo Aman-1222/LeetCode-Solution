@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0151-reverse-words-in-a-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -449,4 +450,8 @@ Collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
