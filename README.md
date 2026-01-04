@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
