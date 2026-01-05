@@ -21,7 +21,7 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
-            ArrayList<Integer> val=new ArrayList<>();
+            List<Integer> val=new ArrayList<>();
             for(int i=0;i<size;i++){
                 TreeNode node = q.poll();
                 val.add(node.val);
