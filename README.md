@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0125-valid-palindrome](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1023-time-based-key-value-store) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
