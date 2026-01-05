@@ -1,11 +1,12 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        int[] arr1=new int[256];
-        int[] arr2=new int[256];
+        HashMap<Character,Character> map=new HashMap<>();
         for(int i=0;i<s.length();i++){
-            if(arr1[s.charAt(i)] != arr2[t.charAt(i)]) return false;
-            arr1[s.charAt(i)]=i+1;
-            arr2[t.charAt(i)]=i+1;
+            if(map.containsKey(s.charAt(i))){
+                if(!map.get(s.charAt(i)).equals(t.charAt(i))) return false;
+            }
+            else if(map.containsValue(t.charAt(i))) return false;
+            else map.put(s.charAt(i),t.charAt(i));
         }
         return true;
     }
