@@ -10,7 +10,7 @@ class Solution {
                 sum+=Math.abs(matrix[i][j]);
             }
         }
-        if((cnt%2!=0 && reduce==0) || cnt%2==0) return sum;
+        if(cnt%2==0) return sum;
         return sum-2*reduce;
     }
 }
