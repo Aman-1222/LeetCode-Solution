@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1448-maximum-69-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0074-search-a-2d-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
