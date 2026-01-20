@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
