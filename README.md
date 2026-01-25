@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Union Find
 |  |
 | ------- |
