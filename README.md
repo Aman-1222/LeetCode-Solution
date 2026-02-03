@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3637-trionic-array-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3637-trionic-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4003-longest-fibonacci-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4003-longest-fibonacci-subarray) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
