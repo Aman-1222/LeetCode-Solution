@@ -12,8 +12,7 @@ class Solution {
                 else if(dig==2 ||dig==5 ||dig==6 ||dig==9 ) valid=true;
                 j/=10;
             }
-            if(valid) 
-                ans++;
+            if(valid) ans++;
         }
         return ans;
     }
