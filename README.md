@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0788-rotated-digits](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1390-four-divisors) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0788-rotated-digits](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
