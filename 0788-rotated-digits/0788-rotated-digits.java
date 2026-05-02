@@ -14,10 +14,8 @@ class Solution {
                 cnt*=10;
                 j/=10;
             }
-            if(rot!=i && j==0) {
+            if(rot!=i && j==0) 
                 ans++;
-                System.out.println(i);
-            }
         }
         return ans;
     }
