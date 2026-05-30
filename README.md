@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3396-valid-word](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
