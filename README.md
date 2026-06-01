@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [2058-concatenation-of-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1200-minimum-absolute-difference](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aman-1222/LeetCode-Solution/tree/master/4078-maximum-alternating-sum-of-squares) |
