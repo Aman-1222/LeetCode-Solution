@@ -30,10 +30,15 @@ class Solution {
     }
 
     public ListNode rev(ListNode head){
-        if(head.next==null) return head;
-        ListNode revHead = rev(head.next);
-        head.next.next=head;
-        head.next=null;
-        return revHead;
+        ListNode curr = head;
+        ListNode next = null;
+        ListNode prev = null;
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
     }
 }
