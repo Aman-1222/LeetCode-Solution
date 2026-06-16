@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0328-odd-even-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aman-1222/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0455-assign-cookies](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/Aman-1222/LeetCode-Solution/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview.
 | [0234-palindrome-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aman-1222/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aman-1222/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
